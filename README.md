@@ -6,7 +6,7 @@ This Repository Contains My Solutions To The Assignments Of The Coursera Course.
 ["Programming_Foundation_With_JavaScript_Html_And_Css"](https://www.coursera.org/learn/duke-programming-web)
 
 ### Website Landing Page (Click On It)
-* [Web-Page](https://shahzaibfardeen.github.io/html5_Coursera_project/)
+* [Web-Page](https://shahzaibfardeen.github.io/Programming_Foundation_With_JavaScript_Html_And_Css/)
 
 ### The Way The Web Page Look 
 
@@ -14,5 +14,5 @@ This Repository Contains My Solutions To The Assignments Of The Coursera Course.
 
 ### Course Completion Certificate
 
-![Course_Completion_Certificate](Src//Certificate.JPG)
+![Course_Completion_Certificate](Src/Certificate.jpg)
 
