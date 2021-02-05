@@ -10,7 +10,7 @@ This Repository Contains My Solutions To The Assignments Of The Coursera Course.
 
 ### The Way The Web Page Look 
 
-![Web_Page_Image](images/Html5.png)
+![Web_Page_Image](Src/Project.png)
 
 ### Course Completion Certificate
 
